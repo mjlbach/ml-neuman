@@ -14,7 +14,7 @@ dependencies:
   - igl
   - iopath
   - nvidiacub
-  - python=3.8
+  - python
   - pytorch
   - pytorch3d
   - torchvision
@@ -26,7 +26,7 @@ dependencies:
     - opencv-python
     - open3d
     - tensorboardx
-    - chumpy
+    - git+https://github.com/mattloper/chumpy.git
     - lpips
     - scikit-image
     - matplotlib
